@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9cd96cb.css",
+    "main.js": "/static/js/main.1f6b12ad.js",
+    "static/js/453.3992c8da.chunk.js": "/static/js/453.3992c8da.chunk.js",
+    "static/media/loader.gif": "/static/media/loader.d1d4956dd76e8823dcaf.gif",
+    "static/media/bannerMain.png": "/static/media/bannerMain.1cba8b8ba43acb5f1666.png",
+    "static/media/Roboto-Regular.woff2": "/static/media/Roboto-Regular.a25806274237d06e00a6.woff2",
+    "static/media/Barlow-Regular.woff2": "/static/media/Barlow-Regular.18f2f5707779b4ab7d75.woff2",
+    "static/media/FSJoey-Bold.woff": "/static/media/FSJoey-Bold.ec509c0cac5e2fa71c31.woff",
+    "static/media/FSJoey-Medium.woff2": "/static/media/FSJoey-Medium.823c4ca21879d0691ce6.woff2",
+    "static/media/FSJoey-Light.woff2": "/static/media/FSJoey-Light.ba8e3ef964953ceada2b.woff2",
+    "static/media/logo.svg": "/static/media/logo.f19537aadced7543ea1c.svg",
+    "static/media/logoFloat.png": "/static/media/logoFloat.654bd3134c1cccf44436.png",
+    "index.html": "/index.html",
+    "static/media/Completed.svg": "/static/media/Completed.bb992bcf6803fbaf20a5a4c7770750d2.svg",
+    "main.a9cd96cb.css.map": "/static/css/main.a9cd96cb.css.map",
+    "main.1f6b12ad.js.map": "/static/js/main.1f6b12ad.js.map",
+    "453.3992c8da.chunk.js.map": "/static/js/453.3992c8da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9cd96cb.css",
+    "static/js/main.1f6b12ad.js"
+  ]
+}
